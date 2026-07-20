@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Flove on flove · blog</title><link>https://flove.org/blog/tags/flove/</link><description>Recent content in Flove on flove · blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 06 Jul 2026 10:00:00 +0000</lastBuildDate><atom:link href="https://flove.org/blog/tags/flove/index.xml" rel="self" type="application/rss+xml"/><item><title>What's new — mid-2026</title><link>https://flove.org/blog/posts/whats-new-mid-2026/</link><pubDate>Mon, 06 Jul 2026 10:00:00 +0000</pubDate><guid>https://flove.org/blog/posts/whats-new-mid-2026/</guid><category>Tech</category><description>&lt;p&gt;Every so often we&amp;rsquo;ll stop, look up from the workbench, and tell you what flove has
+been up to. This is the first of those — a devlog, though really it&amp;rsquo;s just flove
+thinking out loud in public.&lt;/p&gt;
+&lt;p&gt;If there&amp;rsquo;s one thread running through everything below, it&amp;rsquo;s this: most of the
+internet is built to &lt;em&gt;hold onto you&lt;/em&gt; — your attention, your data, your habit of
+coming back. flove is quietly trying the opposite. The big moves this stretch were
+all about making flove something you can simply &lt;strong&gt;have and keep&lt;/strong&gt; — on your own
+device, working whether or not the network (or we) are around. Less a service that
+keeps you; more a thing you own. Here&amp;rsquo;s what that looked like in practice.&lt;/p&gt;</description></item><item><title>The road so far</title><link>https://flove.org/blog/posts/the-road-so-far/</link><pubDate>Mon, 06 Jul 2026 09:30:00 +0000</pubDate><guid>https://flove.org/blog/posts/the-road-so-far/</guid><category>Tech</category><description>&lt;p&gt;Before the devlog picks up entry by entry, here&amp;rsquo;s the whole arc in one place — how
+flove got from an idea to the thing you can &lt;a href="https://flove.org/"&gt;install today&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="by-the-numbers"&gt;By the numbers&lt;/h2&gt;
+&lt;p&gt;flove is young and dense. As of this first post:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;~2 months&lt;/strong&gt; of building — first commit &lt;strong&gt;7 May 2026&lt;/strong&gt;, and it hasn&amp;rsquo;t stopped.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1,100+ commits&lt;/strong&gt; on the main line, from a single pair of hands.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;~30 apps&lt;/strong&gt;, and &lt;strong&gt;70-plus&lt;/strong&gt; single-file builds once you count their tiers and
+variants, grouped in about &lt;strong&gt;ten clusters&lt;/strong&gt; — browse them all at
+&lt;a href="https://flove.org/apps/"&gt;flove.org/apps&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Built as an intense &lt;strong&gt;human + AI pairing&lt;/strong&gt; — on the order of &lt;strong&gt;120 sessions&lt;/strong&gt; of
+working side by side with Claude.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Small team, short calendar, a lot of ground. Here&amp;rsquo;s how it fits together.&lt;/p&gt;</description></item><item><title>Welcome — and what this blog is for</title><link>https://flove.org/blog/posts/welcome/</link><pubDate>Mon, 06 Jul 2026 09:00:00 +0000</pubDate><guid>https://flove.org/blog/posts/welcome/</guid><category>Main</category><description>&lt;p&gt;If you&amp;rsquo;ve landed here, you&amp;rsquo;ve probably already met &lt;strong&gt;flove&lt;/strong&gt; — or you&amp;rsquo;re about to.
+The short version: &lt;a href="https://flove.org/"&gt;flove&lt;/a&gt; is a bet on a slower internet, one
+where &lt;strong&gt;relating, not extracting, is the point&lt;/strong&gt;. Not a feed that mines your attention, but a small
+constellation of tools and ideas built at human scale, to be kept rather than to
+keep you.&lt;/p&gt;
+&lt;p&gt;This blog is the workshop window. It&amp;rsquo;s where we think out loud, announce what
+ships, and keep an honest record of how flove is made. It has three shelves:&lt;/p&gt;</description></item><item><title>Hello, flove</title><link>https://flove.org/blog/posts/hello-flove/</link><pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate><guid>https://flove.org/blog/posts/hello-flove/</guid><description>&lt;p&gt;This is the flove blog — built with &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt;, served static
+from &lt;code&gt;flove.org/blog/&lt;/code&gt;, with zero JavaScript and one small stylesheet.&lt;/p&gt;
+&lt;p&gt;Posts live in &lt;code&gt;blog-src/content/posts/&lt;/code&gt;. Write Markdown, run &lt;code&gt;./build-blog.sh&lt;/code&gt;,
+commit the generated &lt;code&gt;/blog&lt;/code&gt;, and it goes live on the next update-web pass.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;slow it · flow it · love it.&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
